@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/save_station"
+        android:id="@+id/save_station"
+        android:icon="@drawable/green_marker"/>
+
+    <item
+        android:title="@string/station_list"
+        android:id="@+id/station_list"
+        android:icon="@drawable/fuel_station"
+        />
+
+    <item
+        android:title="@string/rechercher_station_par_produit"
+        android:id="@+id/product_list_menu"
+        android:icon="@drawable/search"/>
+
+    <item
+        android:title="@string/nos_services"
+        android:id="@+id/service_list_menu"
+        android:icon="@drawable/service1"/>
+
+    <item
+        android:title="@string/nous_contacter"
+        android:id="@+id/nous_contacter_menu"
+        android:icon="@drawable/contact"/>
+
+    <item
+        android:title="@string/terms_of_use"
+        android:id="@+id/terms_of_use"
+        android:icon="@drawable/terms_of_use"/>
+
+
+
+    <item android:title="Parametrage">
+        <menu>
+            <item
+                android:title="Changer Mot de passe"
+                android:icon="@drawable/change_pwd"/>
+            <item
+                android:title="Mot de passe Oublie?"
+                android:icon="@drawable/change_pwd"/>
+        </menu>
+    </item>
+
+    <group android:id="@+id/group_settings_id">
+
+        <!--<item android:title="Settings"
+            android:icon="@drawable/logo"/>
+        <item android:title="Help"
+            android:icon="@drawable/logo"/>-->
+    </group>
+
+
+</menu>

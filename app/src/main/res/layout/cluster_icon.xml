@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="2dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#00ffffff"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/clustericon"
+        android:src="@drawable/blanc"
+        android:layout_gravity="center"
+        android:foregroundGravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/app_name"/>
+
+    <!--<TextView
+        android:id="@+id/bocom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/amu_Bubble.TextAppearance.Light"
+        android:background="#00FFFFFF"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:text="BOCOM"/>-->
+
+    <TextView
+        android:id="@+id/amu_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/amu_Bubble.TextAppearance.Light"
+        android:background="@color/colorAccent"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:layout_centerInParent="true"
+        android:textSize="12sp"
+        android:alpha=".8"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,92 @@
+[
+  {
+    "id":1,
+    "name":"BOCOM MAKEPE",
+    "latitude":4.1074877000,
+    "longitude":9.7629983000
+  },
+  {
+    "id":2,
+    "name":"BOCOM YASSA",
+    "latitude":4.0664763000,
+    "longitude":9.7269857000
+  },
+  {
+    "id":3,
+    "name":"BOCOM BONAMOUSSADI",
+    "latitude":4.0740215000,
+    "longitude":9.7243475000
+  },
+  {
+    "id":4,
+    "name":"BOCOM NYALLA",
+    "latitude":4.0704429000,
+    "longitude":9.7108698000
+ },
+  {
+    "id":5,
+    "name":"BOCOM BEPANDA",
+    "latitude":4.0603806000,
+    "longitude":9.7284837000
+  },
+  {
+    "id":6,
+    "name":"BOCOM DEIDO",
+    "latitude":4.0652673000,
+    "longitude":9.7284481000
+  },
+  {
+    "id":7,
+    "name":"BOCOM BONABERI",
+    "latitude":4.0703318000,
+    "longitude":9.7233606000
+  },
+  {
+    "id":8,
+    "name":"BOCOM BALI",
+    "latitude":4.0585962000,
+    "longitude":9.7289414000
+  },
+  {
+    "id":9,
+    "name":"BOCOM BONAPRISO",
+    "latitude":4.0764200000,
+    "longitude":9.7199210000
+  },
+  {
+    "id":10,
+    "name":"BOCOM AKWA",
+    "latitude":4.0783676000,
+    "longitude":9.7208039000
+  },
+  {
+    "id":11,
+    "name":"BOCOM BONADOUNBE",
+    "latitude":4.0718958000,
+    "longitude":9.7272088000
+  },
+  {
+    "id":12,
+    "name":"BOCOM BEDI",
+    "latitude":4.0582261000,
+    "longitude":9.7284575000
+  },
+  {
+    "id":13,
+    "name":"BOCOM PK15",
+    "latitude":4.0943682000,
+    "longitude":9.7416464000
+  },
+  {
+    "id":14,
+    "name":"BOCOM FEU-ROUGE",
+    "latitude":4.0823785000,
+    "longitude":9.7275261000
+  },
+  {
+    "id":15,
+    "name":"BOCOM BESSENGUE",
+    "latitude":4.0854622000,
+    "longitude":9.7538245000
+  }
+]
