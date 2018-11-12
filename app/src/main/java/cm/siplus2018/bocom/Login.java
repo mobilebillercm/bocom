@@ -45,10 +45,6 @@ public class Login extends AppCompatActivity  implements View.OnClickListener {
     private CheckBox show_hide_password;
     private TextView forgotPassword;
 
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
